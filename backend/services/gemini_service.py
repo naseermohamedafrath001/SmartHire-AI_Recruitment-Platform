@@ -9,7 +9,7 @@ load_dotenv(os.path.join(backend_dir, '.env'))
 
 class GeminiService:
     def __init__(self):
-        self.api_key = os.getenv('GEMINI_API_KEY', 'AIzaSyDO67uTtzRZQeUGpYAA729Tv6ig_VDlSYo')
+        self.api_key = os.getenv('GEMINI_API_KEY', 'your key')
         self.model_name = None
         self.model = None
         
