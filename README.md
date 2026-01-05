@@ -2,6 +2,8 @@
 
 SmartHire AI is an advanced recruitment automation system designed to streamline the hiring process. By leveraging large language models (LLMs), it provides deep candidate analysis, automated scoring, and comprehensive bias detection to ensure a fair and efficient recruitment workflow.
 
+<img width="1919" height="1052" alt="Image" src="https://github.com/user-attachments/assets/7b710f02-5ced-4da4-9067-11d167e68695" />
+
 ## ✨ Features
 
 ### 🎯 **Core Functionality**
@@ -90,6 +92,7 @@ DATABASE_URL=sqlite:///resume_screener.db
 3. Configure the endpoint URL
 
 ## 📖 Usage Guide
+Demo video - https://drive.google.com/drive/folders/1mPf0-C95LhDOwjojGk2XN1IEH2TQEXU7?usp=sharing
 
 ### 1. **Upload Resumes**
 - Navigate to "Upload Resume" in the navigation
@@ -103,6 +106,8 @@ DATABASE_URL=sqlite:///resume_screener.db
 - See recent candidates with quick actions
 - Access all major features from the dashboard
 - Beautiful cards with hover animations
+
+<img width="1919" height="1041" alt="Image" src="https://github.com/user-attachments/assets/b0e1f9c7-39ba-4035-9501-f449d9c4a15f" />
 
 ### 3. **Candidate Management**
 - Browse all candidates with advanced filtering
